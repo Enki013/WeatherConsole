@@ -1,0 +1,17 @@
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\weatherconsole.exe
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\weatherconsole.deps.json
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\weatherconsole.runtimeconfig.json
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\weatherconsole.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\weatherconsole.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.AssemblyInfo.cs
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.csproj.CopyComplete
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\weatherconsole.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\weatherconsole.genruntimeconfig.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\weatherconsole.dll
